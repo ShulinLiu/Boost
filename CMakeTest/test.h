@@ -1,0 +1,2 @@
+#define TEST_VERSION_MAJOR 0
+#define TEST_VERSION_MINOR 1

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/demo.dir/src/main.cpp.o  -o demo -Wl,-rpath,/usr/local/lib /usr/local/lib/libboost_regex.so /usr/local/lib/libboost_system.so 

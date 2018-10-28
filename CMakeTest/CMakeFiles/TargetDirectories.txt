@@ -1,0 +1,3 @@
+/home/pi/paopao/test/maketest/CMakeFiles/rebuild_cache.dir
+/home/pi/paopao/test/maketest/CMakeFiles/edit_cache.dir
+/home/pi/paopao/test/maketest/CMakeFiles/demo.dir
